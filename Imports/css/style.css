@@ -1,0 +1,13 @@
+.textBuy {
+  font-size: 22px;
+  font-family: "Courier New", Courier, monospace;
+  color: red;
+}
+
+.btn {
+  padding: 10px 15px;
+  border: 2px solid red;
+  background-color: yellow;
+}
+
+/*# sourceMappingURL=style.css.map */
