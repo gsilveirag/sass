@@ -1,0 +1,19 @@
+#title-home{
+    font-size: 44px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.btn{
+    padding: 10px 15px;
+    width: 95px;
+    color: white;
+    background-color: $btn-background;
+    display: block;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+@mixin text-style($color, $font-size, $font-family) {
+    color: $color;
+    font-size: $font-size;
+    font-family: $font-family;
+}
